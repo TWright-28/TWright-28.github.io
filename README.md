@@ -16,7 +16,7 @@ Software / Web Application Developer @ Glohaven Community Hub
 - Addressed previously created test files from PHPUnit to the PestPHP framework. Standardized testing fileformatting and fixed all tests that were previously failing
 
 ### Projects 
-NHL Game Data Analysis Twitter Bot |[twitter.com/NHLReportCards](https://twitter.com/NHLReportCards) / [github.com/NHL_TwitterBot](https://github.com/TWright-28/NHL_TwitterBot)
+NHL Game Data Analysis Twitter Bot | [twitter.com/NHLReportCards](https://twitter.com/NHLReportCards) / [github.com/NHL_TwitterBot](https://github.com/TWright-28/NHL_TwitterBot)
 - Gathered and cleaned data using Python and Pandas from the NHL’s undocumented REST API, converting the data into statistical cards that would be posted on Twitter using the Twitter API.
 - Converted JSON data into statistical plots built using matplotlib and seaborn for easier viewing.
 - Script is automated to run once a day for consistent posting and publishing of stat cards.
@@ -27,3 +27,10 @@ Glohaven Emergency Management Solutions | Full Stack Capstone Project| UBC
 - Employed Laravel and MySQL to handle data storage and retrieval of data.
 - To ensure functionality and reliability, the web application was containerized using Docker and implemented unit testing with PestPHP
 - Server-side support and validation were implemented to ensure that all data was correctly handled.
+
+Full Stack Development Reddit Clone | [github.com/Full-Stack-Reddit-Clone](https://github.com/TWright-28/Full-Stack-Reddit-Clone)
+- Worked with PHP to create a fully functional forum page, where users could create an account, like posts upload a profile picture and follow other accounts
+- Used SQL to query the database for various user activities such as creating or searching posts
+- Integrated AJAX, Bootstrap, and jQuery for seamless thread updates and consistent formatting.
+- Created an automated emailing system for new users when registering using phpMailer
+- User data is collected and displayed in an admin page for analytics of the entire site using Charts.js
