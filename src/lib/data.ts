@@ -177,6 +177,15 @@ export const publications: Publication[] = [
     description:
       "Large-scale empirical study of 69,000+ classified issues across 8 npm projects using non-parametric tests, survival analysis, and mixed-effects logistic regression.",
   },
+  {
+    title: "Studying Extrinsic bugs in open source software ecosystems through large-scale empirical analysis",
+    venue: "UBCO Thesis COGS",
+    year: "2026",
+    links: [
+      {label: "UBCO COGS", href: "https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0453664?o=0"},
+    ],
+    description: "Thesis published on investigating Extrinsic bugs within the NPM ecosystem, consists of 5 chapters with a deeper understanding of how these bugs act and an architecture to manage and track them for researchers."
+  },
 ];
 
 export const projects: Project[] = [
